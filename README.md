@@ -1,4 +1,5 @@
 # Abay Shield - Password Security Toolkit
+```markdown
     ___    __                   _____ __    _      __    __
    /   |  / /_  ____ ___  __   / ___// /_  (_)__  / /___/ /
   / /| | / __ \/ __ `/ / / /   \__ \/ __ \/ / _ \/ / __  /
@@ -19,7 +20,7 @@
   🔐 Advanced Password Security Analyzer
   ⚡ Ethiopian Nile - Guardian of Digital Access
 ════════════════════════════════════════════════════════════
-
+````
 ## Features
 
 Password strength evaluation based on:
